@@ -1,5 +1,12 @@
-# CMSC6950 Computer Based Research Tools and Applications
-  Memorial University of Newfoundland
+---
+layout: post
+date: 2017-04-05 14:40:50 -02:30
+title: "Welcome to CMSC6950"
+published: true
+---
+
+## Computer Based Research Tools and Applications
+  Memorial University of Newfoundland  
   Intersession 2017
 
 **Lectures**:​ Wednesdays and Fridays 9am-12pm in room C2039 (First Lecture May 10, 2017)
@@ -23,15 +30,4 @@
   also develop automation of research work flows for passing data between different software
   applications.
 
-## Course Outline
 
-
-## Setup Instructions
-
-
-## Textbook: 
-Anthony Scopatz, Kathryn D. Huff. Effective Computation in Physics: Field Guide to
-Research with Python. O’Reilly Media, 2015.
-
-Available on-campus through the MUN library at:
-<http://qe2a-proxy.mun.ca/login?url=http://proquestcombo.safaribooksonline.com/9781491901564>
