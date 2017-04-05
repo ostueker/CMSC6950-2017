@@ -9,7 +9,8 @@ published: true
   Memorial University of Newfoundland  
   Intersession 2017
 
-**Lectures**:​ Wednesdays and Fridays 9am-12pm in room C2039 (First Lecture May 10, 2017)
+## Lectures
+  Wednesdays and Fridays 9am-12pm in room C2039 (First Lecture May 10, 2017)
 
 ## Instructors:
 
