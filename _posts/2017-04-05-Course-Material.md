@@ -5,6 +5,6 @@ published: true
 ---
 ## Course Material
 
-* [Chapter 1 - The Command Line]({{ site.url }}/lectures/ch01-the-command-line.ipynb) (Jupyter Notebook)
-* [Chapter 2 - Intro to Python]({{ site.url }}/lectures/ch02-python.ipynb) (Jupyter Notebook)
+* [Chapter 1 - The Command Line](https://github.com/ostueker/CMSC6950-2017/blob/gh-pages/lectures/ch01-the-command-line.ipynb) (Jupyter Notebook)
+* [Chapter 2 - Intro to Python](https://github.com/ostueker/CMSC6950-2017/blob/gh-pages/lectures/ch02-python.ipynb) (Jupyter Notebook)
 * ...
