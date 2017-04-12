@@ -33,4 +33,4 @@ published: true
 
 ## Course Outline
 
-Download the [PDF]({{ site.url }}/_data/CMSC6950-May_2017-Course_Outline.pdf)
+Download the [PDF]({{ site.url }}/data/CMSC6950-May_2017-Course_Outline.pdf)
