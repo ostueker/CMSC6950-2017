@@ -31,4 +31,6 @@ published: true
   also develop automation of research work flows for passing data between different software
   applications.
 
+## Course Outline
 
+Download the [PDF]({{ site.url }}/_data/CMSC6950-May_2017-Course_Outline.pdf)
