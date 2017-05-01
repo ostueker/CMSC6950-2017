@@ -2,3 +2,4 @@ _cache
 _site
 serve
 **/.ipynb_checkpoints
+**/__pycache__
