@@ -15,10 +15,23 @@ published: true
     * [Chapter 5 - Functions](https://github.com/ostueker/CMSC6950-2017/blob/gh-pages/lectures/ch05-functions.ipynb) (Jupyter Notebook)
     * [Chapter 6 - Classes and Objects](https://github.com/ostueker/CMSC6950-2017/blob/gh-pages/lectures/ch06-classes-objects.ipynb) (Jupyter Notebook)
 * Day 5
-    * [Chapter 7 - Analysis and Visualization](https://github.com/ostueker/CMSC6950-2017/blob/gh-pages/lectures/ch07-analysis-and-viz.ipynb) (Jupyter Notebook)
     * [Chapter 9 - NumPy: Thinking in Arrays](https://github.com/ostueker/CMSC6950-2017/blob/gh-pages/lectures/ch09-numpy.ipynb) (Jupyter Notebook)
+    * [Chapter 7 - Analysis and Visualization](https://github.com/ostueker/CMSC6950-2017/blob/gh-pages/lectures/ch07-analysis-and-viz.ipynb) (Jupyter Notebook)
     * [Chapter 10 - Storing Data: Files and HDF5](https://github.com/ostueker/CMSC6950-2017/blob/gh-pages/lectures/ch10-storing-data.ipynb) (Jupyter Notebook)
+* Day 6
+    * [Chapter 11 - Data Structures](https://github.com/ostueker/CMSC6950-2017/blob/gh-pages/lectures/ch11-data-structures.ipynb) (Jupyter Notebook)
+    * ...
+* Day 7
+    * ...
+* Day 8
+    * ...
+* Day 9
+    * ...
+* Day 10
+    * ...
+* Day 11
+    * ...
+* Day 12
     * ...
 
 
-    * [Chapter 11 - Data Structures](https://github.com/ostueker/CMSC6950-2017/blob/gh-pages/lectures/ch11-data-structures.ipynb) (Jupyter Notebook)
