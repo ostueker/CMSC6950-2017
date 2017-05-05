@@ -3,3 +3,5 @@ _site
 serve
 **/.ipynb_checkpoints
 **/__pycache__
+**/*.o
+**/tempdir

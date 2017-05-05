@@ -6,9 +6,10 @@ import pandas as pd
 
 # use argparse package for processing command line arguments
 parser = argparse.ArgumentParser(description='Process some data files.')
-parser.add_argument('infiles', metavar='FILE', type=str, nargs='+',
+parser.add_argument('infiles', metavar='FILE.TXT', type=str, nargs='+',
                     help='name of data file')
-parser.add_argument('-o', dest='outfile', default="tempdir/processed_data.csv",
+parser.add_argument('-o', dest='outfile', metavar='OUTFILE.CSV',
+                    default="tempdir/processed_data.csv",
                     help='name of the output file')
 args = parser.parse_args()
 
