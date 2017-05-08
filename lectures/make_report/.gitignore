@@ -1,0 +1,11 @@
+*.aux
+*.dvi
+*.fdb_latexmk
+*.pdf_tex
+*.fls
+*.log
+*.out
+*.pdf
+tempdir/
+*.svg
+
