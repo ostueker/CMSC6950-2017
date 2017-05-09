@@ -23,14 +23,30 @@ getfactorial 4
 echo "Simple for loop ................"
 
 forloop(){
+rm simple_loop_data.dat
 for i in {0..4}
 do
-echo $i
+echo $i >> simple_loop_data.dat
 done
 }
 
+
 forloop
 
+# ====================================
+
+echo "Simple for loop --- reading from file ................"
+
+forloopfile(){
+
+cat  simple_loop_data.dat | while read j
+do
+echo $j 
+done
+}
+
+
+forloopfile
 
 # ====================================
 
@@ -63,8 +79,10 @@ then
 echo correct
 else
 echo wrong
+exit
+echo did not exit
 fi
 }
 
-Noofarguments 2 4 2
+Noofarguments 2 4 
 
