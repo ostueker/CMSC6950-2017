@@ -5,3 +5,5 @@ serve
 **/__pycache__
 **/*.o
 **/tempdir
+**/git_planets
+
