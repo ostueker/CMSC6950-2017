@@ -31,4 +31,4 @@ if not os.path.exists('tempdir'):
     os.mkdir('tempdir')
 
 # export processed data
-df.to_csv(args.outfile)
+df.to_csv(args.outfile, index=False)

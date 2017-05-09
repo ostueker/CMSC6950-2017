@@ -1,11 +1,11 @@
 *.aux
 *.dvi
 *.fdb_latexmk
-*.pdf_tex
 *.fls
 *.log
 *.out
 *.pdf
-tempdir/
+*.pdf_tex
+*.pyg
 *.svg
-
+tempdir/

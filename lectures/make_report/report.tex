@@ -1,17 +1,10 @@
 \documentclass[10pt,letterpaper]{article}
-
 \usepackage{fullpage}
-\usepackage{color}
-\usepackage[colorlinks,linkcolor=black,citecolor=black,urlcolor=blue]{hyperref}
 \usepackage{svg}
-
-%%%  Bibliography
-\usepackage[square,numbers ]{natbib}
-\bibliographystyle{unsrtnat}
+\usepackage{minted}
+\usepackage{float}
 
 \begin{document}
-
-
 \title{Building a Workflow to create Reports}
 \author{Oliver Stueker}
 \date{\today}
@@ -22,32 +15,34 @@ This document is created by a make script.
 \end{abstract}
 
 \section{Introduction}
-
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
 
 \begin{figure}[!ht]
- \centering
- \includesvg[width=0.5\columnwidth]{figure1}
- \caption{The plotted example data.}
+	\centering
+	\includesvg[width=0.5\columnwidth]{figure1}
+	\caption{The plotted example data.}
 \end{figure}
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+
+\newpage
+\section{Appendix}
+
+\subsection{Listings}
+
+\subsubsection{Makefile}
+\inputminted[linenos,frame=single]{makefile}{Makefile}
+
+\subsubsection{plot\_data.py}
+\inputminted[linenos,frame=single]{python}{plot_data.py}
+
+\subsubsection{process\_data.py}
+\inputminted[linenos,frame=single]{python}{process_data.py}
+
+\subsubsection{report.tex}
+\inputminted[linenos,frame=single]{latex}{report.tex}
 
 \end{document}
 

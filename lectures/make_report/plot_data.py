@@ -15,5 +15,5 @@ args = parser.parse_args()
 
 df = pd.read_csv(args.infile)
 
-plot = df.plot()
+plot = df.plot(ylim=(-5,5))
 plot.figure.savefig(args.outfile)
