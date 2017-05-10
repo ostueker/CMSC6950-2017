@@ -78,7 +78,7 @@ if [ "$#" -eq "3" ]
 then
 echo correct
 else
-echo wrong
+echo "wrong! .... # of arguments < 3 "
 exit
 echo did not exit
 fi
