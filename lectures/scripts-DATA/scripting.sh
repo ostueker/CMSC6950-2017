@@ -1,4 +1,5 @@
 #!/bin/bash              
+# bash interpreter to run
 # Commands are in /bin/bash
 
 
