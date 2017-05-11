@@ -25,8 +25,8 @@ date: 2017-05-11T10:28:29-02:30
     * [Working with Pandas DataFrames](https://github.com/ostueker/CMSC6950-2017/blob/gh-pages/lectures/Working_with_Pandas_DataFrames.ipynb) (Jupyter Notebook)
 * Wednesday, May 31st (Dr. Oliver Stueker)
     * [Chapter 14 - Building Pipelines and Software](https://github.com/ostueker/CMSC6950-2017/blob/gh-pages/lectures/ch14-building-software.ipynb) (Jupyter Notebook)
-    * Chapter 18 - Testing (Material in preparation)
-    * Chapter 17a - Debugging (Material in preparation)
+    * Chapter 18 - Testing (in preparation)
+    * Chapter 17a - Debugging (in preparation)
 * Friday, June 2nd (Dr. Oliver Stueker)
     * [Chapter 15 - Local Version Control](https://github.com/ostueker/CMSC6950-2017/blob/gh-pages/lectures/ch15-local-version-control.ipynb) (Jupyter Notebook)
     * [Chapter 16 - Remote Version Control](https://github.com/ostueker/CMSC6950-2017/blob/gh-pages/lectures/ch16-remote-version-control.ipynb) (Jupyter Notebook)
@@ -35,8 +35,8 @@ date: 2017-05-11T10:28:29-02:30
 * Friday, June 9th (Prof. Ivan Saika-Voivod)
     * TBA
 * Wednesday, June 14th (Dr. Oliver Stueker)
-    * Chapter 17b - Profiling and Code optimization (Material in preparation)
-    * Introduction to ACENET and High Performance Computing (Material in preparation)
+    * Chapter 17b - Profiling and Code optimization (in preparation)
+    * Introduction to ACENET and High Performance Computing (in preparation)
     * [Introduction to Parallel Programming]({{ site.url }}/lectures/introduction_to_parallel_computing.pdf) (PDF slides)
 * Friday, June 16th (Prof. Ivan Saika-Voivod)
     * TBA
