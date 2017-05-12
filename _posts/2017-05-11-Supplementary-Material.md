@@ -23,8 +23,10 @@ examples.
     * Software Carpentry Lesson: [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation)
     * Python for Everybody:
         * Lessons (most of them containing videos) and Material: <http://www.py4e.com/>
-        * **Free eBook** "Python for Everybody" (PDF, epub, ...):  <https://www.py4e.com/book>
+        * **Free eBook** (PDF, epub, ...):  <https://www.py4e.com/book>
         * printed copies of the book are available for ca. Cdn$ 14 .
+    * Python 3.6.1 Documentation: <https://docs.python.org/3.6/>
+* [NumPy Documentation](https://docs.scipy.org/doc/)
 * Pandas DataFrames
     * Data Carpentry Lesson: [Python for ecologists](http://www.datacarpentry.org/python-ecology-lesson/)
     * [Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/)
