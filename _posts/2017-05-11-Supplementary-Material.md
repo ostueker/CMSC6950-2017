@@ -20,17 +20,21 @@ examples.
 * Python
     * General
         * Software Carpentry Lesson: [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation)
+        * Python for Everybody:
+            * Lessons (most of them containing videos) and Material: <http://www.py4e.com/>
+            * **Free eBook** "Python for Everybody" (PDF, epub, ...):  <http://www.pythonlearn.com/book.php>
+            * printed copies of the book are available for ca. Cdn$ 14 .
     * Pandas DataFrames
         * Data Carpentry Lesson: [Python for ecologists](http://www.datacarpentry.org/python-ecology-lesson/)
         * [Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/)
-        * Book: **Python for Data Analysis***- Data Wrangling with Pandas, NumPy, and IPython* by Wes McKinney; Publisher: O'Reilly Media;  
+        * Book: **Python for Data Analysis***- Data Wrangling with Pandas, NumPy, and IPython* by Wes McKinney; Publisher: O'Reilly Media;
           A second edition is currently in preparation.
       * Plotting with Matplotlib
         * [Pyplot tutorial](http://matplotlib.org/users/pyplot_tutorial.html)
         * [Matplotlib gallery](http://matplotlib.org/gallery.html)
 * Version Control with Git
     * Software Carpentry Lesson: [Version Control with Git](http://swcarpentry.github.io/git-novice)
-    * Book **Pro Git** by Scott Chacon and Ben Straub; in print or as [free eBook](https://git-scm.com/book)
+    * Book **Pro Git** by Scott Chacon and Ben Straub; in print or as [**free eBook**](https://git-scm.com/book)
     * Interactive Git Cheatsheet: <http://ndpsoftware.com/git-cheatsheet.html>
     * Bitbucket Git tutorials: <https://www.atlassian.com/git/tutorials>
     * GitHub: Learn the basics of Git in 15 minutes: <https://try.github.io/levels/1/challenges/1>
