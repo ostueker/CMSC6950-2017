@@ -23,7 +23,7 @@ date: 2017-05-11T10:28:29-02:30
     * [Chapter 10 - Storing Data: Files and HDF5](https://github.com/ostueker/CMSC6950-2017/blob/gh-pages/lectures/ch10-storing-data.ipynb) (Jupyter Notebook)
 * Friday, May 26th (Dr. Oliver Stueker)
     * [Chapter 11 - Data Structures](https://github.com/ostueker/CMSC6950-2017/blob/gh-pages/lectures/ch11-data-structures.ipynb) (Jupyter Notebook)
-    * [Working with Pandas DataFrames](https://github.com/ostueker/CMSC6950-2017/blob/gh-pages/lectures/Working_with_Pandas_DataFrames.ipynb) (Jupyter Notebook)
+    * [Working with Pandas DataFrames](https://github.com/ostueker/CMSC6950-2017/blob/gh-pages/lectures/working_with_Pandas_DataFrames.ipynb) (Jupyter Notebook)
 * Wednesday, May 31st (Dr. Oliver Stueker)
     * [Chapter 14 - Building Pipelines and Software](https://github.com/ostueker/CMSC6950-2017/blob/gh-pages/lectures/ch14-building-software.ipynb) (Jupyter Notebook)
     * Chapter 17a - Debugging (in preparation)
