@@ -35,6 +35,13 @@ examples.
 * Plotting with Matplotlib
     * [Pyplot tutorial](http://matplotlib.org/users/pyplot_tutorial.html)
     * [Matplotlib gallery](http://matplotlib.org/gallery.html)
+* Software Testing
+    * Software Carpentry Lesson on [Testing with Python](http://katyhuff.github.io/python-testing/)
+    * Python Testing Frameworks:
+        * [nose - nicer testing for python](http://nose.readthedocs.io/en/latest/)
+        * [nose2](http://nose2.readthedocs.io/en/latest/)
+        * [pytest](https://docs.pytest.org/en/latest/)
+        * Python [unittest module](https://docs.python.org/3.6/library/unittest.html#module-unittest)
 
 ### Version Control with Git
 * Software Carpentry Lesson: [Version Control with Git](http://swcarpentry.github.io/git-novice)
