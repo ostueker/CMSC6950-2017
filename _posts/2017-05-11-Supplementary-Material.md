@@ -26,11 +26,10 @@ examples.
         * **Free eBook** (PDF, epub, ...):  <https://www.py4e.com/book>
         * printed copies of the book are available for ca. Cdn$ 14 .
     * Python 3.6.1 Documentation: <https://docs.python.org/3.6/>
-    * [Regular Expressions](https://github.com/ostueker/CMSC6950-2017/blob/gh-pages/lectures/regexps.ipynb) (Jupyter Notebook)    
-    * [Data for regexp](https://github.com/ostueker/CMSC6950-2017/blob/gh-pages/lectures/DATA.zip) (zip file)
 * Regular Expressions:
     * Reqular Expressions: [Regular Expression Exercises](https://regexone.com/)
-
+    * [Download Regular Expressions Notebook]({{ site.url }}/lectures/regexps.ipynb) (Jupyter Notebook)
+    * [Download Data.zip for regexp]({{ site.url }}/lectures/DATA.zip) (zip file)
 * [NumPy Documentation](https://docs.scipy.org/doc/)
 * Pandas DataFrames
     * Data Carpentry Lesson: [Python for ecologists](http://www.datacarpentry.org/python-ecology-lesson/)
