@@ -26,6 +26,8 @@ examples.
         * **Free eBook** (PDF, epub, ...):  <https://www.py4e.com/book>
         * printed copies of the book are available for ca. Cdn$ 14 .
     * Python 3.6.1 Documentation: <https://docs.python.org/3.6/>
+* Jupyter Notebooks:
+    * [Notebook Help](http://nbviewer.jupyter.org/github/ipython/ipython/blob/3.x/examples/Notebook/Index.ipynb)
 * Regular Expressions:
     * Reqular Expressions: [Regular Expression Exercises](https://regexone.com/)
     * [Download Regular Expressions Notebook]({{ site.url }}/lectures/regexps.ipynb) (Jupyter Notebook)

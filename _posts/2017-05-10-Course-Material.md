@@ -9,11 +9,13 @@ date: 2017-05-11T10:28:29-02:30
 * Wednesday, May 10th (Shahrazad Malek)
     * Chapter 1 - The Command Line:             [View notebook]({{ site.gh_url}}/lectures/ch01-the-command-line.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch01-the-command-line.ipynb)
+
 * Friday, May 12th (Shahrazad Malek)
     * Chapter 2 - Intro to Python:              [View notebook]({{ site.gh_url}}/lectures/ch02-python.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch02-python.ipynb)
     * Chapter 3 - Containers in Python:         [View notebook]({{ site.gh_url}}/lectures/ch03-containers.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch03-containers.ipynb)
+
 * Wednesday, May 17th (Shahrazad Malek)
     * Chapter 4 - Flow-control in Python:       [View notebook]({{ site.gh_url}}/lectures/ch04-flow-control.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch04-flow-control.ipynb)
@@ -24,10 +26,15 @@ date: 2017-05-11T10:28:29-02:30
         * [Download Data.zip for regexp]({{ site.url }}/lectures/DATA.zip) (zip file)
 
 * Friday, May 19th (Dr. Oliver Stueker)
+    * Jupyter Notebooks - Markdown Cells:       [View notebook]({{ site.gh_url}}/lectures/Working_With_Markdown_Cells.ipynb), 
+                                                [Download]({{ site.url }}/lectures/Working_With_Markdown_Cells.ipynb)
+    * Python Recap:                             [View notebook]({{ site.gh_url}}/lectures/Python_Review.ipynb), 
+                                                [Download]({{ site.url }}/lectures/Python_Review.ipynb)
     * Chapter 5 - Functions:                    [View notebook]({{ site.gh_url}}/lectures/ch05-functions.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch05-functions.ipynb)
     * Chapter 6 - Classes and Objects:          [View notebook]({{ site.gh_url}}/lectures/ch06-classes-objects.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch06-classes-objects.ipynb)
+
 * Wednesday, May 24th (Dr. Oliver Stueker)
     * Chapter 9 - NumPy: Thinking in Arrays:    [View notebook]({{ site.gh_url}}/lectures/ch09-numpy.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch09-numpy.ipynb)
@@ -37,11 +44,13 @@ date: 2017-05-11T10:28:29-02:30
                                                 [Download]({{ site.url }}/lectures/matplotlib_examples.ipynb)
     * Chapter 10 - Storing Data: Files and HDF5: [View notebook]({{ site.gh_url}}/lectures/ch10-storing-data.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch10-storing-data.ipynb)
+
 * Friday, May 26th (Dr. Oliver Stueker)
     * Chapter 11 - Data Structures:             [View notebook]({{ site.gh_url}}/lectures/ch11-data-structures.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch11-data-structures.ipynb)
     * Working with Pandas DataFrames:           [View notebook]({{ site.gh_url}}/lectures/working_with_Pandas_DataFrames.ipynb), 
                                                 [Download]({{ site.url }}/lectures/working_with_Pandas_DataFrames.ipynb)
+
 * Wednesday, May 31st (Dr. Oliver Stueker)
     * Chapter 14 - Building Pipelines and Software: [View notebook]({{ site.gh_url}}/lectures/ch14-building-software.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch14-building-software.ipynb)
@@ -56,15 +65,18 @@ date: 2017-05-11T10:28:29-02:30
                                                 [Download]({{ site.url }}/lectures/ch15-local-version-control.ipynb)
     * Chapter 16 - Remote Version Control:      [View notebook]({{ site.gh_url}}/lectures/ch16-remote-version-control.ipynb),
                                                 [Download]({{ site.url }}/lectures/ch16-remote-version-control.ipynb)
+
 * Wednesday, June 7th (Prof. Ivan Saika-Voivod)
     * TBA
+
 * Friday, June 9th (Prof. Ivan Saika-Voivod)
     * TBA
+
 * Wednesday, June 14th (Dr. Oliver Stueker)
     * Chapter 17b - Profiling and Code optimization (in preparation)
     * Introduction to ACENET and High Performance Computing (in preparation)
     * Introduction to Parallel Programming: [View/Download PDF slides]({{ site.url }}/lectures/introduction_to_parallel_computing.pdf)
+
 * Friday, June 16th (Prof. Ivan Saika-Voivod)
     * TBA
-
 
