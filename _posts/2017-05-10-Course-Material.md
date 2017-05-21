@@ -36,6 +36,7 @@ date: 2017-05-11T10:28:29-02:30
                                                 [Download]({{ site.url }}/lectures/ch06-classes-objects.ipynb)
 
 * Wednesday, May 24th (Dr. Oliver Stueker)
+    * Data for chapters 7 and 10:               [Download numpy_data.zip]({{ site.url }}/lectures/numpy_data.zip)
     * Chapter 9 - NumPy: Thinking in Arrays:    [View notebook]({{ site.gh_url}}/lectures/ch09-numpy.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch09-numpy.ipynb)
     * Chapter 7 - Analysis and Visualization:   [View notebook]({{ site.gh_url}}/lectures/ch07-analysis-and-viz.ipynb), 
