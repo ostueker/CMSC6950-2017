@@ -37,16 +37,16 @@ date: 2017-05-11T10:28:29-02:30
 
 * Wednesday, May 24th (Dr. Oliver Stueker)
     * Data for chapters 7 and 10:               [Download numpy_data.zip]({{ site.url }}/lectures/numpy_data.zip)
-    * Chapter 9 - NumPy: Thinking in Arrays:    [View notebook]({{ site.gh_url}}/lectures/ch09-numpy.ipynb), 
-                                                [Download]({{ site.url }}/lectures/ch09-numpy.ipynb)
     * Chapter 7 - Analysis and Visualization:   [View notebook]({{ site.gh_url}}/lectures/ch07-analysis-and-viz.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch07-analysis-and-viz.ipynb)
+    * Chapter 9 - NumPy: Thinking in Arrays:    [View notebook]({{ site.gh_url}}/lectures/ch09-numpy.ipynb), 
+                                                [Download]({{ site.url }}/lectures/ch09-numpy.ipynb)
+
+* Friday, May 26th (Dr. Oliver Stueker)
     * Visualization examples using Matplotlib:  [View notebook]({{ site.gh_url}}/lectures/matplotlib_examples.ipynb), 
                                                 [Download]({{ site.url }}/lectures/matplotlib_examples.ipynb)
     * Chapter 10 - Storing Data: Files and HDF5: [View notebook]({{ site.gh_url}}/lectures/ch10-storing-data.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch10-storing-data.ipynb)
-
-* Friday, May 26th (Dr. Oliver Stueker)
     * Chapter 11 - Data Structures:             [View notebook]({{ site.gh_url}}/lectures/ch11-data-structures.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch11-data-structures.ipynb)
     * Working with Pandas DataFrames:           [View notebook]({{ site.gh_url}}/lectures/working_with_Pandas_DataFrames.ipynb), 
