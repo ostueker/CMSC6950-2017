@@ -51,6 +51,9 @@ date: 2017-05-11T10:28:29-02:30
                                                 [Download]({{ site.url }}/lectures/ch11-data-structures.ipynb)
     * Working with Pandas DataFrames:           [View notebook]({{ site.gh_url}}/lectures/working_with_Pandas_DataFrames.ipynb), 
                                                 [Download]({{ site.url }}/lectures/working_with_Pandas_DataFrames.ipynb)
+    * Chapter 19 - Documentation                [View notebook]({{ site.gh_url}}/lectures/ch19-documentation.ipynb), 
+                                                [Download]({{ site.url }}/lectures/ch19-documentation.ipynb)
+    * Data for Sphinx Documentation: [Download particles.zip]({{ site.url }}/data/particles.zip)
 
 * Wednesday, May 31st (Dr. Oliver Stueker)
     * Chapter 14 - Building Pipelines and Software: [View notebook]({{ site.gh_url}}/lectures/ch14-building-software.ipynb), 
