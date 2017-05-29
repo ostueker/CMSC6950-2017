@@ -17,5 +17,5 @@ date: 2017-05-12T10:28:29-02:30
                                                 [Download]({{ site.url }}/assignments/Assignment3.ipynb)
         * inflammation_data.csv: [View]({{ site.gh_url }}/assignments/inflammation_data.csv),
                                                 [Download]({{ site.url }}/assignments/inflammation_data.csv)
-	* TwoSubFigures.png: [Veiw]({{ site.gh_url }}/assignments/TwoSubFigures.png),
+        * TwoSubFigures.png: [Veiw]({{ site.gh_url }}/assignments/TwoSubFigures.png),
                                                 [Download]({{ site.url }}/assignments/TwoSubFigures.png)
