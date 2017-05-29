@@ -14,5 +14,7 @@ date: 2017-05-12T10:28:29-02:30
 
 * Due to Monday, June 5, 2017 (Shahrazad Malek)
     * [Assignment 3]({{ site.url }}/assignments/Assignment3.ipynb) (Jupyter Notebook)
-	* [inflammation_data.csv]({{ site.url }}/assignments/inflammation_data.csv) (csv file)
-	* [TwoSubFigures.png]({{ site.url }}/assignments/TwoSubFigures.png) (png file)
+        * inflammation_data.csv: [View]({{ site.gh_url }}/assignments/inflammation_data.csv),
+                                                [Download]({{ site.url }}/assignments/inflammation_data.csv)
+	* TwoSubFigures.png: [Veiw]({{ site.gh_url }}/assignments/TwoSubFigures.png),
+                                                [Download]({{ site.url }}/assignments/TwoSubFigures.png)
