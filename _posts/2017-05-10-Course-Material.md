@@ -56,10 +56,11 @@ date: 2017-05-11T10:28:29-02:30
     * Data for Sphinx Documentation: [Download particles.zip]({{ site.url }}/data/particles.zip)
 
 * Wednesday, May 31st (Dr. Oliver Stueker)
-    * **Download data** for Workflows, Debugging and Testing: [2017-05-31.zip]({{ site.url }}/data/2017-05-31.zip)
-      and unpack it inside your Desktop/CMSC6950 directory.
+    * **Download data**: [2017-05-31.zip]({{ site.url }}/data/2017-05-31.zip) and unpack it inside your Desktop/CMSC6950 directory.
+      This will create directories `workflow`, `debugging` and `testing-files`.
     * Chapter 14 - Building Pipelines and Software: [View notebook]({{ site.gh_url}}/lectures/ch14-building-software.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch14-building-software.ipynb)
+        - See also [my GitHub repo](https://github.com/ostueker/workflow).
     * Chapter 17a - Debugging:                  [View notebook]({{ site.gh_url}}/lectures/ch17-debugging.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch17-debugging.ipynb)
     * Chapter 18 - Testing: [https://katyhuff.github.io/python-testing/](https://katyhuff.github.io/python-testing/)
