@@ -63,7 +63,9 @@ date: 2017-05-11T10:28:29-02:30
         - See also [my GitHub repo](https://github.com/ostueker/workflow).
     * Chapter 17a - Debugging:                  [View notebook]({{ site.gh_url}}/lectures/ch17-debugging.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch17-debugging.ipynb)
-    * Chapter 18 - Testing: [https://katyhuff.github.io/python-testing/](https://katyhuff.github.io/python-testing/)
+    * Chapter 18 - Testing:                     [View notebook]({{ site.gh_url}}/lectures/Testing.ipynb), 
+                                                [Download]({{ site.url }}/lectures/Testing.ipynb)
+        - and [https://katyhuff.github.io/python-testing/](https://katyhuff.github.io/python-testing/)
 
 * Friday, June 2nd (Dr. Oliver Stueker)
     * Chapter 15 - Local Version Control:       [View notebook]({{ site.gh_url}}/lectures/ch15-local-version-control.ipynb),
