@@ -65,3 +65,8 @@ examples.
 * Original [Markdown](http://daringfireball.net/projects/markdown/) site and 
   [Markdown Syntax definition](http://daringfireball.net/projects/markdown/syntax).
 * GitHub [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+### LaTeX
+* [Wikibook Latex](https://en.wikibooks.org/wiki/LaTeX)
+* Q&A Forum: [Tex Stackexchange](https://tex.stackexchange.com)
+* Collaborative LaTeX Editor [Sharelatex](https://www.sharelatex.com/)
