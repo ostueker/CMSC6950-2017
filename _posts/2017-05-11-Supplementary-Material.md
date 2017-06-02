@@ -20,12 +20,17 @@ examples.
 
 ### Python
 * General
+    * Python 3.6.1 Documentation: <https://docs.python.org/3.6/>
     * Software Carpentry Lesson: [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation)
     * Python for Everybody:
         * Lessons (most of them containing videos) and Material: <http://www.py4e.com/>
         * **Free eBook** (PDF, epub, ...):  <https://www.py4e.com/book>
         * printed copies of the book are available for ca. Cdn$ 14 .
-    * Python 3.6.1 Documentation: <https://docs.python.org/3.6/>
+    * Think Python, 2nd edition (Python 3):
+        * **Free eBook** (PDF, epub, ...):  <http://greenteapress.com/wp/think-python-2e/>
+        * Python for Everybody is actually derived from this book.
+        * There are also printed copies, but they are more expensive than 
+          the those of Python for Everybody.
 * Jupyter Notebooks:
     * [Notebook Help](http://nbviewer.jupyter.org/github/ipython/ipython/blob/3.x/examples/Notebook/Index.ipynb)
 * Regular Expressions:
