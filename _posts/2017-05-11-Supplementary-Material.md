@@ -27,7 +27,7 @@ examples.
         * **Free eBook** (PDF, epub, ...):  <https://www.py4e.com/book>
         * printed copies of the book are available for ca. Cdn$ 14 .
     * Think Python, 2nd edition (Python 3):
-        * **Free eBook** (PDF, epub, ...):  <http://greenteapress.com/wp/think-python-2e/>
+        * **Free eBook** (read online, PDF, ...):  <http://greenteapress.com/wp/think-python-2e/>
         * Python for Everybody is actually derived from this book.
         * There are also printed copies, but they are more expensive than 
           the those of Python for Everybody.
