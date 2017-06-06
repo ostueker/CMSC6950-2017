@@ -19,3 +19,6 @@ date: 2017-05-12T10:28:29-02:30
                                                 [Download]({{ site.url }}/assignments/inflammation_data.csv)
         * TwoSubFigures.png: [Veiw]({{ site.gh_url }}/assignments/TwoSubFigures.png),
                                                 [Download]({{ site.url }}/assignments/TwoSubFigures.png)
+
+* Due to Monday, June 12, 2017 (Oliver Stueker)
+    * Assignment 4: [View]({{ site.url }}/assignments/assignment4_git.pdf),
