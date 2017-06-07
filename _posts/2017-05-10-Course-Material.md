@@ -74,7 +74,9 @@ date: 2017-05-11T10:28:29-02:30
                                                 [Download]({{ site.url }}/lectures/ch16-remote-version-control.ipynb)
 
 * Wednesday, June 7th (Prof. Ivan Saika-Voivod)
-    * TBA
+    *  **Download data **: [DATABASES-20170607.zip]({{ site.url }}/data/DATABASES-20170607.zip) and unpack it inside your Desktop/CMSC6950 directory.
+    * Databases:                                [View notebook]({{ site.gh_url}}/lectures/Databases.ipynb),
+                                                [Download]({{ site.url }}/lectures/Databases.ipynb)
 
 * Friday, June 9th (Prof. Ivan Saika-Voivod)
     * TBA
