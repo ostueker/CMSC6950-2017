@@ -79,7 +79,9 @@ date: 2017-05-11T10:28:29-02:30
                                                 [Download]({{ site.url }}/lectures/Databases.ipynb)
 
 * Friday, June 9th (Prof. Ivan Saika-Voivod)
-    * TBA
+    * **Download folder**: [MISC20170609.zip]({{ site.url }}/data/MISC20170609.zip) and unpack it inside your Desktop/CMSC6950 directory.
+    * Animations and other stuff                [View notebook]({{ site.gh_url}}/lectures/misc.ipynb),
+                                                [Download]({{ site.url }}/lectures/misc.ipynb)
 
 * Wednesday, June 14th (Dr. Oliver Stueker)
     * Chapter 17b - Profiling and Code optimization (in preparation)
