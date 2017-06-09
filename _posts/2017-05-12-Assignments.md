@@ -12,7 +12,7 @@ date: 2017-05-12T10:28:29-02:30
 * Due to Friday, May 26, 2017 (Shahrazad Malek)
     * [Assignment 2]({{ site.url }}/assignments/Assignment2.ipynb) (Jupyter Notebook)
 
-* Due to Monday, June 5, 2017 (Shahrazad Malek)
+* Due to **Wednesday, June 7, 2017** (Shahrazad Malek)
     * Assignment 3: [View]({{ site.gh_url }}/assignments/Assignment3.ipynb),
                                                 [Download]({{ site.url }}/assignments/Assignment3.ipynb)
         * inflammation_data.csv: [View]({{ site.gh_url }}/assignments/inflammation_data.csv),
