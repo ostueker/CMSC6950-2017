@@ -84,10 +84,11 @@ date: 2017-05-11T10:28:29-02:30
                                                 [Download]({{ site.url }}/lectures/misc.ipynb)
 
 * Wednesday, June 14th (Dr. Oliver Stueker)
-    * Chapter 17b - Profiling and Code optimization (in preparation)
-    * Introduction to ACENET and High Performance Computing (in preparation)
+    * Introduction to ACENET and High Performance Computing [View/Download PDF slides]({{ site.url }}/lectures/Introduction_to_ACENET_and_Grid_Engine_2017.pdf)
     * Introduction to Parallel Programming: [View/Download PDF slides]({{ site.url }}/lectures/introduction_to_parallel_computing.pdf)
-
+    * Code: Calculating the Energy in a Lennard-Jones system: <https://github.com/ostueker/CMSC6950>
+    * Chapter 17b - Profiling and Code optimization [View notebook]({{ site.gh_url}}/lectures/ch17b-profiling.ipynb),
+                                                    [Download]({{ site.url }}/lectures/ch17b-profiling.ipynb)
 * Friday, June 16th (Prof. Ivan Saika-Voivod)
     * TBA
 
