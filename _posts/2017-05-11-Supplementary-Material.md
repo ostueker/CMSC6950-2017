@@ -21,7 +21,9 @@ examples.
 ### Python
 * General
     * Python 3.6.1 Documentation: <https://docs.python.org/3.6/>
-    * Software Carpentry Lesson: [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation)
+    * Software Carpentry Lessons: 
+        * [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation)
+        * [Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/)
     * Python for Everybody:
         * Lessons (most of them containing videos) and Material: <http://www.py4e.com/>
         * **Free eBook** (PDF, epub, ...):  <https://www.py4e.com/book>
@@ -31,6 +33,11 @@ examples.
         * Python for Everybody is actually derived from this book.
         * There are also printed copies, but they are more expensive than 
           the those of Python for Everybody.
+    * The Hitchhiker's Guide to Python: 
+        * **Free eBook** (read online, PDF, epub): <http://docs.python-guide.org/>
+        * A guide to Pyhton that describes best practices, useful packages and helpful tips.
+        * Has something to offer for both novices as well as for experts.
+        * Also available as printed O'Reilly book.
 * Jupyter Notebooks:
     * [Notebook Help](http://nbviewer.jupyter.org/github/ipython/ipython/blob/3.x/examples/Notebook/Index.ipynb)
 * Regular Expressions:
@@ -41,8 +48,8 @@ examples.
 * Pandas DataFrames
     * Data Carpentry Lesson: [Python for ecologists](http://www.datacarpentry.org/python-ecology-lesson/)
     * [Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/)
-    * Book: **Python for Data Analysis***- Data Wrangling with Pandas, NumPy, and IPython* by Wes McKinney; Publisher: O'Reilly Media;
-      A second edition is currently in preparation.
+    * Book: **Python for Data Analysis** - Data Wrangling with Pandas, NumPy, and IPython* by Wes McKinney; Publisher: O'Reilly Media;
+      A second edition has been released.
 * Plotting with Matplotlib
     * [Pyplot tutorial](http://matplotlib.org/users/pyplot_tutorial.html)
     * [Matplotlib gallery](http://matplotlib.org/gallery.html)
